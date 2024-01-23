@@ -1,8 +1,6 @@
 <h1 align="center">Pham Hoang Trong</h1>
 <h3 align="center">A student of UIT</h3>
 
-- 🔭 I’m currently studying on **UIT**
-
 - 📫 How to reach me **hoangtrongphm31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
