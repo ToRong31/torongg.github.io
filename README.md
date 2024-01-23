@@ -1,4 +1,4 @@
-<title>Resume/CV Dev - HieuTrung</title>
+
 <h1 align="center">Pham Hoang Trong</h1>
 <h3 align="center">A student of UIT</h3>
 
