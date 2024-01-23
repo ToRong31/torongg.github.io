@@ -1,7 +1,7 @@
 
 <h1 align="center">Pham Hoang Trong</h1>
 <h3 align="center">A student of UIT</h3>
-
+<title>Resume/CV Dev - HoangTrong</title>
 - Study at **Hiện tại đang là sinh viên của trường Đại học công nghệ thông tin- Đại học quốc gia TPHCM**
 
 - Major **Chuyên nghành Khoa học máy tính**
