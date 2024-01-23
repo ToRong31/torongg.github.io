@@ -1,6 +1,10 @@
 <h1 align="center">Pham Hoang Trong</h1>
 <h3 align="center">A student of UIT</h3>
 
+- Study at **Hiện tại đang là sinh viên của trường Đại học công nghệ thông tin- Đại học quốc gia TPHCM**
+
+- Major **Chuyên nghành Khoa học máy tính**
+
 - 📫 How to reach me **hoangtrongphm31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
